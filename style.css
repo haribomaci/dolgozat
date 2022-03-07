@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    background-color: lightblue;
+    margin: 2%;
+    padding: 15px;
+    border-radius: 5px;
+    border: solid 3px darkblue;
+    box-shadow: 10px 10px 10px;
+
+
+
+}
